@@ -2,8 +2,7 @@
 
 ## Introduction
 - This repository is for 2020 Fall CS492I CV project of Team 4.  
-- In this [```README.md```](https://github.com/HyeongshinYoon/CS492I_CV/blob/master/README.md) we mainly explain about our **Main model with Highest Accuracy**.  
-- You can check the explanation about *Best score model* or *Models that we tried but not used* in other branches.
+- In this [```README.md```](https://github.com/HyeongshinYoon/CS492I_CV/blob/master/README.md) we mainly explain about our **Main model with Highest Accuracy**. 
 	### Members
 	    Hyunjin Kim 20170191
 		Hyeongshin Yoon 20170438
